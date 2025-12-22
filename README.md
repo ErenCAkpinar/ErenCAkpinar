@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Ai 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 22000161@emu.edu.tr
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 
 <!---
 ErenCAkpinar/ErenCAkpinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
