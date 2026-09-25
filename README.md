@@ -1,7 +1,7 @@
 [profile-README.md](https://github.com/user-attachments/files/29676347/profile-README.md)
 # Hi, I'm Eren 👋
 
-Third-year Computer Engineering student at Eastern Mediterranean University (Cyprus). I build software that has to survive contact with the real world — mostly algorithmic trading systems and full-stack web apps.
+Final-year Computer Engineering student at Eastern Mediterranean University (Cyprus), expected to graduate in 2027. I build software that has to survive contact with the real world — mostly algorithmic trading systems and full-stack web apps.
 
 ## What I'm working on
 
