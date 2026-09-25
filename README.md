@@ -9,8 +9,6 @@ Final-year Computer Engineering student at Eastern Mediterranean University (Cyp
 
 **Quant research tooling.** [quant-trade-first-project](https://github.com/ErenCAkpinar/quant-trade-first-project) is an ensemble equities strategy scaffold with a transaction-cost-aware backtest engine (spread, market impact, borrow costs) and walk-forward validation. [quant-stock-fetcher](https://github.com/ErenCAkpinar/quant-stock-fetcher) handles the boring-but-necessary data plumbing.
 
-**Computer vision.** [target-tracking-ai](https://github.com/ErenCAkpinar/target-tracking-ai) does real-time object detection (YOLOv8) and tracking (Kalman filter + ID matching) on drone-style aerial footage.
-
 **Web.** UI/UX owner on [LuxeStay](https://github.com/ErenCAkpinar/LuxeStay), a university team project: 20+ screens for a hotel booking site, designed in Figma and implemented as a responsive multi-page HTML/CSS site.
 
 ## Stack
