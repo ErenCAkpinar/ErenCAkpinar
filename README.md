@@ -16,7 +16,7 @@ Multi-agent swing-trading pipeline for US stocks and ETFs: rule-based agents, qu
 **[LuxeStay](https://github.com/ErenCAkpinar/LuxeStay)** · [live demo](https://erencakpinar.github.io/LuxeStay/luxestay_website/home/html/index.html)  
 University team project (CMPE312): I owned the UI/UX, 20+ Figma screens implemented as a responsive HTML/CSS site.
 
-Also: [quant-trade-first-project](https://github.com/ErenCAkpinar/quant-trade-first-project), an ensemble equities strategy scaffold with a transaction-cost-aware backtest engine (spread, market impact, borrow costs) and walk-forward validation, and [quant-stock-fetcher](https://github.com/ErenCAkpinar/quant-stock-fetcher) for market-data plumbing.
+Also: [quant-trade-first-project](https://github.com/ErenCAkpinar/quant-trade-first-project), an ensemble equities strategy scaffold with a transaction-cost-aware backtest engine (spread, market impact, borrow costs) and regime-based risk scaling, and [quant-stock-fetcher](https://github.com/ErenCAkpinar/quant-stock-fetcher) for market-data plumbing.
 
 ## Stack
 
