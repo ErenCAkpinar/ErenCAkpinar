@@ -1,6 +1,6 @@
 # Hi, I'm Eren 👋
 
-Final-year Computer Engineering student at Eastern Mediterranean University (Cyprus), expected to graduate in 2027. I build research systems for algorithmic trading and AI-assisted decisions, mostly in Python and Rust, and I document what they actually do, including what didn't work.
+Final-year Computer Engineering student at Eastern Mediterranean University (North Cyprus), expected to graduate in 2027. I build research systems for algorithmic trading and AI-assisted decisions, mostly in Python and Rust, and I document what they actually do, including what didn't work.
 
 ## Selected projects
 
